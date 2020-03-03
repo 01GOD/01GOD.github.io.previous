@@ -1,0 +1,116 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true" ftp_hostname="I-AM-INFINITY.com/public_html" ftp_rootfolder="/" exportTarget="FTP" resolutions="1x" timestamp="1425186443749">
+  <folder name="css">
+    <file name="site_global.css" crc="4186867393"/>
+    <file name="master_a-master.css" crc="56803415" ref="info:designer:interface:index:music:story"/>
+    <file name="info.css" crc="146728051" ref="info"/>
+    <file name="designer.css" crc="3881583782" ref="designer"/>
+    <file name="interface.css" crc="302943291" ref="interface"/>
+    <file name="index.css" crc="4139886833" ref="index"/>
+    <file name="music.css" crc="501877394" ref="music"/>
+    <file name="story.css" crc="269886696" ref="story"/>
+  </folder>
+  <folder name="assets">
+    <folder name="iphoneportfolioupdatenew">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1423362129000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1423362129000"/>
+      </folder>
+      <folder name="images">
+        <file name="background.png" crc="4133420179" mt="1423362129000"/>
+        <file name="Beautiful-Blue-Icons-HD-Wallpaper-for-iPhone-5.png" crc="4508716" mt="1423362129000"/>
+        <file name="GOOD FRONTAL PROMO .jpg" crc="4096954916" mt="1423362129000"/>
+        <file name="icon.png" crc="180163866" mt="1423362129000"/>
+        <file name="iPhone100_0000_Layer-4.png" crc="278760177" mt="1423362129000"/>
+        <file name="lock-bottom.png" crc="4267936846" mt="1423362129000"/>
+        <file name="lock-slider.png" crc="3766147947" mt="1423362129000"/>
+        <file name="lock-top.png" crc="461228665" mt="1423362129000"/>
+        <file name="Poster.png" crc="180163866" mt="1423362129000"/>
+        <file name="loader-bar.gif" crc="376648417" mt="1423362129000"/>
+        <file name="loader-bar2.gif" crc="376648417" mt="1423362129000"/>
+        <file name="preloader4.gif" crc="85566964" mt="1423362129000"/>
+        <file name="preloader5.gif" crc="4020311544" mt="1423362129000"/>
+        <file name="preloader52.gif" crc="4020311544" mt="1423362129000"/>
+        <file name="slide-to-unlock.gif" crc="4232684097" mt="1423362129000"/>
+      </folder>
+      <file name="iPhonePortfolioUpdateNew_edge.js" crc="4064538093" mt="1423362129000"/>
+      <file name="iPhonePortfolioUpdateNew_edgeActions.js" crc="3892263431" mt="1423362129000"/>
+      <file name="iPhonePortfolioUpdateNew_edgePreload.js" crc="4102276402" mt="1423362129000"/>
+      <file name="iPhonePortfolioUpdateNew.html" crc="10049053" mt="1423362129000"/>
+    </folder>
+    <folder name="whitetextiphoneportfolioupdatenew">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1423363523000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1423363523000"/>
+      </folder>
+      <folder name="images">
+        <file name="background.png" crc="4133420179" mt="1423363523000"/>
+        <file name="Beautiful-Blue-Icons-HD-Wallpaper-for-iPhone-5.png" crc="4508716" mt="1423363523000"/>
+        <file name="GOOD FRONTAL PROMO .jpg" crc="4096954916" mt="1423363523000"/>
+        <file name="icon.png" crc="180163866" mt="1423363523000"/>
+        <file name="iPhone100_0000_Layer-4.png" crc="278760177" mt="1423363523000"/>
+        <file name="lock-bottom.png" crc="4267936846" mt="1423363523000"/>
+        <file name="lock-slider.png" crc="3766147947" mt="1423363523000"/>
+        <file name="lock-top.png" crc="461228665" mt="1423363523000"/>
+        <file name="Poster.png" crc="180163866" mt="1423363523000"/>
+        <file name="loader-bar.gif" crc="376648417" mt="1423363523000"/>
+        <file name="loader-bar2.gif" crc="376648417" mt="1423363523000"/>
+        <file name="preloader4.gif" crc="85566964" mt="1423363523000"/>
+        <file name="preloader5.gif" crc="4020311544" mt="1423363523000"/>
+        <file name="preloader52.gif" crc="4020311544" mt="1423363523000"/>
+        <file name="slide-to-unlock.gif" crc="4232684097" mt="1423363523000"/>
+      </folder>
+      <file name="WhiteTextiPhonePortfolioUpdateNew_edge.js" crc="4084240741" mt="1423363523000"/>
+      <file name="WhiteTextiPhonePortfolioUpdateNew_edgeActions.js" crc="3892263431" mt="1423363523000"/>
+      <file name="WhiteTextiPhonePortfolioUpdateNew_edgePreload.js" crc="3881762906" mt="1423363523000"/>
+      <file name="WhiteTextiPhonePortfolioUpdateNew.html" crc="4003129391" mt="1423363523000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:designer:info:interface:music:story"/>
+    <file name="museutils.js" crc="353204447" ref="index:designer:info:interface:music:story"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:designer:info:interface:music:story"/>
+    <file name="pie.js" crc="3827607177" ref="index:designer:info:interface:music:story"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="index:designer:info:interface:music:story"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:designer:info:interface:music:story"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:designer:info:interface:music:story"/>
+    <file name="webpro.js" crc="317917375" ref="designer"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="designer"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="designer"/>
+    <file name="touchswipe.js" crc="367691663" ref="designer"/>
+  </folder>
+  <folder name="images">
+    <file name="earth_from_space-1513525.jpg" crc="4035408982" ref="index:designer:info:interface:music:story"/>
+    <file name="highlight good frontal alpha all-one-sun-021913-60.png" crc="474740697" ref="index"/>
+    <file name="neo render good38.jpg" crc="4253326346" ref="designer"/>
+    <file name="blank.gif" crc="4208392903" ref="designer"/>
+    <file name="neo render good10.jpg" crc="332663088" ref="designer"/>
+    <file name="neo render good12.jpg" crc="4208058565" ref="designer"/>
+    <file name="neo render good20.jpg" crc="4167740813" ref="designer"/>
+    <file name="neo render good37pg.jpg" crc="181219979" ref="designer"/>
+    <file name="neo render good3860x45.jpg" crc="3914597660" ref="designer"/>
+    <file name="neo render good1060x45.jpg" crc="4119393050" ref="designer"/>
+    <file name="neo render good1260x45.jpg" crc="58164188" ref="designer"/>
+    <file name="neo render good2060x45.jpg" crc="4081239226" ref="designer"/>
+    <file name="neo render good37pg60x45.jpg" crc="64185828" ref="designer"/>
+    <file name="u2215-4.png" crc="301741550" ref="designer"/>
+    <file name="u2175-4.png" crc="3793574165" ref="designer"/>
+    <file name="loading.gif" crc="3815509949" ref="designer"/>
+    <file name="good rockstar frontal with spacebass 1024.jpg" crc="4037758805" ref="designer"/>
+    <file name="spacebass for kickstarter copy.jpg" crc="308149798" ref="designer"/>
+    <file name="waveform01 spacebass01 with white keyboard midi module.jpg" crc="400508778" ref="designer"/>
+    <file name="waveform01 spacebass01 with white midi module.jpg" crc="132161466" ref="designer"/>
+    <file name="good rockstar frontal with spacebass 102460x45.jpg" crc="109287205" ref="designer"/>
+    <file name="spacebass for kickstarter copy60x45.jpg" crc="20628890" ref="designer"/>
+    <file name="waveform01 spacebass01 with white keyboard midi module60x45.jpg" crc="3802455393" ref="designer"/>
+    <file name="waveform01 spacebass01 with white midi module60x45.jpg" crc="4254728657" ref="designer"/>
+    <file name="u610-4.png" crc="301741550" ref="designer"/>
+    <file name="u607-4.png" crc="3793574165" ref="designer"/>
+    <file name="omni-infinity-logo.jpg" crc="184221259" ref="designer:info:story"/>
+  </folder>
+  <file name="index.html" crc="125265503" mt="1425171193972" redirect="true"/>
+  <file name="designer.html" crc="4271297978" mt="1425171193975" redirect="true"/>
+  <file name="info.html" crc="377269710" mt="1425171193978" redirect="true"/>
+  <file name="interface.html" crc="3799165311" mt="1425171193987" redirect="true"/>
+  <file name="music.html" crc="3766022553" mt="1425171193989" redirect="true"/>
+  <file name="story.html" crc="100145305" mt="1425186296365" redirect="true"/>
+</manifest>
